@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/3.1 - Constructors.md",
+                "file": "Module 3/3.2 - Copy Constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/3.1 - Constructors.md",
+                "file": "Module 3/3.2 - Copy Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/3.1 - Constructors.md",
+                "file": "Module 3/3.2 - Copy Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/3.1 - Constructors.md"
+                "file": "Module 3/3.2 - Copy Constructors.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "c7594e313b4c3eaf",
   "lastOpenFiles": [
+    "Pasted image 20241013144202.png",
+    "Pasted image 20241013144029.png",
+    "Module 3/3.1 - Constructors.md",
+    "Module 3/3.2 - Copy Constructors.md",
+    "Module 3/3.3 - Copy Assignment.md",
+    "Module 3/3.4 - Variable Storage.md",
+    "Module 3/3.5 - Destructor.md",
     "images/Pasted image 20241013141130.png",
     "Pasted image 20241013141130.png",
     "images/Pasted image 20241013140834.png",
@@ -157,11 +164,6 @@
     "Module 1/1.3 - Standard Library.md",
     "Module 1/1.2 - Classes.md",
     "Module 1/1.1 - Types and Programs.md",
-    "Module 3/3.1 - Constructors.md",
-    "Module 3/3.4 - Variable Storage.md",
-    "Module 3/3.5 - Destructor.md",
-    "Module 3/3.3 - Copy Assignment.md",
-    "Module 3/3.2 - Copy Constructors.md",
     "Evaluation/C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",
     "Evaluation/Evaluation Answers.md",
     "Untitled.md",
@@ -172,8 +174,6 @@
     "images/Pasted image 20241012135524.png",
     "Pasted image 20241012135524.png",
     "Pasted image 20241012134759.png",
-    "Pasted image 20241012134606.png",
-    "Pasted image 20241012130829.png",
     "images/Untitled.md",
     "images",
     "New folder",

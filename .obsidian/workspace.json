@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5f318c209f07ff",
+        "id": "1758ea62ea07defb",
         "type": "tabs",
         "children": [
           {
-            "id": "39d72fdb83d808d5",
+            "id": "c7594e313b4c3eaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 2/2.3 - Heap Puzzles.md",
+                "file": "Module 3/3.1 - Constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 2/2.3 - Heap Puzzles.md",
+                "file": "Module 3/3.1 - Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 2/2.3 - Heap Puzzles.md",
+                "file": "Module 3/3.1 - Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 2/2.3 - Heap Puzzles.md"
+                "file": "Module 3/3.1 - Constructors.md"
               }
             }
           }
@@ -146,8 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b60f5963fab058f5",
+  "active": "c7594e313b4c3eaf",
   "lastOpenFiles": [
+    "images/Pasted image 20241013141130.png",
+    "Pasted image 20241013141130.png",
+    "images/Pasted image 20241013140834.png",
+    "Module 2/2.3 - Heap Puzzles.md",
+    "Module 2/2.2 - Heap Memory.md",
+    "Module 2/2.1 - Stack Memory.md",
+    "Module 1/1.3 - Standard Library.md",
+    "Module 1/1.2 - Classes.md",
+    "Module 1/1.1 - Types and Programs.md",
+    "Module 3/3.1 - Constructors.md",
+    "Module 3/3.4 - Variable Storage.md",
+    "Module 3/3.5 - Destructor.md",
+    "Module 3/3.3 - Copy Assignment.md",
+    "Module 3/3.2 - Copy Constructors.md",
+    "Evaluation/C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",
+    "Evaluation/Evaluation Answers.md",
+    "Untitled.md",
+    "Module 3",
     "images/Pasted image 20241012130829.png",
     "images/Pasted image 20241012134606.png",
     "images/Pasted image 20241012134759.png",
@@ -155,18 +173,8 @@
     "Pasted image 20241012135524.png",
     "Pasted image 20241012134759.png",
     "Pasted image 20241012134606.png",
-    "Module 2/2.2 - Heap Memory.md",
-    "Module 2/2.1 - Stack Memory.md",
-    "Module 2/2.3 - Heap Puzzles.md",
     "Pasted image 20241012130829.png",
-    "Module 1/1.3 - Standard Library.md",
-    "Module 1/1.2 - Classes.md",
-    "Module 1/1.1 - Types and Programs.md",
     "images/Untitled.md",
-    "images/Pasted image 20241012115907.png",
-    "images/Pasted image 20241012115919.png",
-    "images/Pasted image 20241012121437.png",
-    "Untitled.md",
     "images",
     "New folder",
     "Module 2",
@@ -176,10 +184,8 @@
     "hello_world/hello_world.o",
     "hello_world/hello_world.cpp",
     "hello_world",
-    "Evaluation/C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",
     "Evaluation/Answers.md",
     "Answers.md",
-    "Evaluation",
     "C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",
     "Welcome.md"
   ]

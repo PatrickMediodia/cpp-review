@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/3.4 - Variable Storage.md",
+                "file": "Module 3/3.5 - Destructor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/3.4 - Variable Storage.md",
+                "file": "Module 3/3.5 - Destructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/3.4 - Variable Storage.md",
+                "file": "Module 3/3.5 - Destructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/3.4 - Variable Storage.md"
+                "file": "Module 3/3.5 - Destructor.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "c7594e313b4c3eaf",
   "lastOpenFiles": [
-    "Module 2/2.3 - Heap Puzzles.md",
-    "Module 2/2.2 - Heap Memory.md",
-    "Module 2/2.1 - Stack Memory.md",
-    "Module 3/3.5 - Destructor.md",
     "Module 3/3.4 - Variable Storage.md",
     "Module 3/3.3 - Copy Assignment.md",
     "Module 3/3.2 - Copy Constructors.md",
     "Module 3/3.1 - Constructors.md",
+    "Module 3/3.5 - Destructor.md",
+    "images/Pasted image 20241013201136.png",
+    "Module 2/2.3 - Heap Puzzles.md",
+    "Module 2/2.2 - Heap Memory.md",
+    "Module 2/2.1 - Stack Memory.md",
     "images/Pasted image 20241013194745.png",
     "images/Pasted image 20241013194248.png",
     "images/Pasted image 20241013193831.png",
@@ -165,7 +166,6 @@
     "images/Pasted image 20241013144029.png",
     "Pasted image 20241013144202.png",
     "Pasted image 20241013144029.png",
-    "images/Pasted image 20241013141130.png",
     "Module 1/1.3 - Standard Library.md",
     "Module 1/1.2 - Classes.md",
     "Module 1/1.1 - Types and Programs.md",

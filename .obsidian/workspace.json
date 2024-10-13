@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/3.3 - Copy Assignment.md",
+                "file": "Module 3/3.4 - Variable Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/3.3 - Copy Assignment.md",
+                "file": "Module 3/3.4 - Variable Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/3.3 - Copy Assignment.md",
+                "file": "Module 3/3.4 - Variable Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/3.3 - Copy Assignment.md"
+                "file": "Module 3/3.4 - Variable Storage.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c7594e313b4c3eaf",
   "lastOpenFiles": [
-    "Module 3/3.2 - Copy Constructors.md",
+    "images/Pasted image 20241013144202.png",
+    "images/Pasted image 20241013144029.png",
     "Module 3/3.3 - Copy Assignment.md",
+    "Module 3/3.2 - Copy Constructors.md",
     "Module 3/3.1 - Constructors.md",
     "Pasted image 20241013144202.png",
     "Pasted image 20241013144029.png",
@@ -172,7 +174,6 @@
     "images/Pasted image 20241012134606.png",
     "images/Pasted image 20241012134759.png",
     "images/Pasted image 20241012135524.png",
-    "Pasted image 20241012135524.png",
     "images/Untitled.md",
     "images",
     "New folder",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1758ea62ea07defb",
+        "id": "0452351d33265b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7594e313b4c3eaf",
+            "id": "e3ca54733e5f25b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/4.6 - Inheritance.md",
+                "file": "Module 4/4.5 - Templated Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/4.6 - Inheritance.md",
+                "file": "Module 4/4.5 - Templated Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/4.6 - Inheritance.md",
+                "file": "Module 4/4.5 - Templated Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/4.6 - Inheritance.md"
+                "file": "Module 4/4.5 - Templated Functions.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7594e313b4c3eaf",
+  "active": "e3ca54733e5f25b7",
   "lastOpenFiles": [
-    "Pasted image 20241016203223.png",
+    "images/Pasted image 20241016211333.png",
+    "Pasted image 20241016211333.png",
+    "Module 4/4.6 - Inheritance.md",
+    "images/Pasted image 20241016203223.png",
     "Module 4/4.5 - Templated Functions.md",
     "images/Pasted image 20241016182908.png",
-    "Module 4/4.6 - Inheritance.md",
     "Module 4/4.1 - Vectors.md",
     "images/Pasted image 20241014234047.png",
     "Pasted image 20241014234047.png",
@@ -163,12 +165,10 @@
     "images/Pasted image 20241013194248.png",
     "images/Pasted image 20241013193831.png",
     "images/Pasted image 20241013193529.png",
-    "images/Pasted image 20241013191434.png",
     "Module 3/3.4 - Variable Storage.md",
     "Module 3/3.3 - Copy Assignment.md",
     "Module 3/3.2 - Copy Constructors.md",
     "Module 3/3.1 - Constructors.md",
-    "images/Pasted image 20241013144202.png",
     "Module 2/2.3 - Heap Puzzles.md",
     "Module 2/2.2 - Heap Memory.md",
     "Module 2/2.1 - Stack Memory.md",

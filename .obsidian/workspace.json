@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/4.5 - Templated Functions.md",
+                "file": "Module 4/4.6 - Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/4.5 - Templated Functions.md",
+                "file": "Module 4/4.6 - Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/4.5 - Templated Functions.md",
+                "file": "Module 4/4.6 - Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/4.5 - Templated Functions.md"
+                "file": "Module 4/4.6 - Inheritance.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "c7594e313b4c3eaf",
   "lastOpenFiles": [
+    "Pasted image 20241016203223.png",
+    "Module 4/4.5 - Templated Functions.md",
     "images/Pasted image 20241016182908.png",
     "Module 4/4.6 - Inheritance.md",
     "Module 4/4.1 - Vectors.md",
-    "Module 4/4.5 - Templated Functions.md",
     "images/Pasted image 20241014234047.png",
     "Pasted image 20241014234047.png",
     "Module 3/3.5 - Destructor.md",
@@ -168,7 +169,6 @@
     "Module 3/3.2 - Copy Constructors.md",
     "Module 3/3.1 - Constructors.md",
     "images/Pasted image 20241013144202.png",
-    "images/Pasted image 20241013144029.png",
     "Module 2/2.3 - Heap Puzzles.md",
     "Module 2/2.2 - Heap Memory.md",
     "Module 2/2.1 - Stack Memory.md",

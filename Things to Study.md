@@ -1,6 +1,6 @@
+- [ ] Overload Operators
 - [ ] Const
 - [ ] L and R Values
 - [ ] Smart Pointers (Unique and Shared Pointers)
-- [ ] Overload Operators
 - [ ] Make Unique/Shared
 - [ ] Mutex vs Semaphores

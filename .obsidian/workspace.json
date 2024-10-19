@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5c795c45e6f762",
+        "id": "c780db33a49a1fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "0624ef712332b7c2",
+            "id": "496e6d3a0b3c61b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/4.2 - Towers of Hanoi.md",
+                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.2 - Towers of Hanoi"
+              }
+            }
+          },
+          {
+            "id": "7ef3ced9890f3e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Study.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -41,9 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +66,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,17 +74,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b037b4718a3e3f9b",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/4.2 - Towers of Hanoi.md",
+                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +105,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 4.2 - Towers of Hanoi"
+              }
             }
           },
           {
@@ -113,12 +114,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/4.2 - Towers of Hanoi.md",
+                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 4.2 - Towers of Hanoi"
+              }
             }
           },
           {
@@ -129,9 +128,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -140,10 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/4.2 - Towers of Hanoi.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 4.2 - Towers of Hanoi"
+                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md"
+              }
             }
           }
         ]
@@ -163,8 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0624ef712332b7c2",
+  "active": "496e6d3a0b3c61b8",
   "lastOpenFiles": [
+    "Things to Study.md",
+    "Modules",
+    "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
+    "images/Pasted image 20241019122412.png",
+    "Modules/Module 4/4.2 - Towers of Hanoi Pt. 1.md",
+    "Modules/Module 4/4.1 - Vectors.md",
+    "Modules/Module 3/3.5 - Destructor.md",
+    "Modules/Module 3/3.4 - Variable Storage.md",
+    "Modules/Module 3/3.3 - Copy Assignment.md",
+    "Modules/Module 3/3.2 - Copy Constructors.md",
+    "Modules/Module 3/3.1 - Constructors.md",
     "images/Pasted image 20241019071727.png",
     "images/Pasted image 20241019063328.png",
     "images/Pasted image 20241019063207.png",
@@ -174,37 +180,26 @@
     "Pasted image 20241019063328.png",
     "Pasted image 20241019063207.png",
     "Pasted image 20241019060246.png",
-    "Pasted image 20241019060044.png",
-    "Module 4/4.2 - Towers of Hanoi.md",
-    "Module 4/4.5 - Templated Functions.md",
-    "images/Pasted image 20241016211333.png",
-    "Module 4/4.6 - Inheritance.md",
-    "Module 4/4.1 - Vectors.md",
-    "Module 3/3.5 - Destructor.md",
-    "Module 4",
-    "Module 3/3.4 - Variable Storage.md",
-    "Module 3/3.3 - Copy Assignment.md",
-    "Module 3/3.2 - Copy Constructors.md",
-    "Module 3/3.1 - Constructors.md",
-    "Module 2/2.3 - Heap Puzzles.md",
-    "Module 2/2.2 - Heap Memory.md",
-    "Module 2/2.1 - Stack Memory.md",
-    "Module 1/1.3 - Standard Library.md",
-    "Module 1/1.2 - Classes.md",
-    "Module 1/1.1 - Types and Programs.md",
+    "Modules/Module 4/4.5 - Templated Functions.md",
+    "Modules/Module 4/4.6 - Inheritance.md",
+    "Modules/Module 4",
+    "Modules/Module 2/2.3 - Heap Puzzles.md",
+    "Modules/Module 2/2.2 - Heap Memory.md",
+    "Modules/Module 2/2.1 - Stack Memory.md",
+    "Modules/Module 1/1.3 - Standard Library.md",
+    "Modules/Module 1/1.2 - Classes.md",
+    "Modules/Module 1/1.1 - Types and Programs.md",
     "Evaluation/C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",
     "Evaluation/Evaluation Answers.md",
-    "Untitled.md",
-    "Module 3",
+    "Modules/Module 3",
     "images/Untitled.md",
     "images",
     "New folder",
-    "Module 2",
-    "programs/hello_world/hello_world.o",
-    "programs/hello_world/hello_world.cpp",
-    "programs/hello_world",
+    "Modules/Module 2",
+    "Programs/hello_world/hello_world.o",
+    "Programs/hello_world/hello_world.cpp",
+    "Programs/hello_world",
     "hello_world/hello_world.o",
-    "hello_world/hello_world.cpp",
     "Evaluation/Answers.md",
     "Answers.md",
     "C++ Evaluation Test for Graduate Training (Oct 10, 2024).md",

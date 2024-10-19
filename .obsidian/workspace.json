@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
+                "file": "Things to Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
+                "file": "Things to Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md"
+                "file": "Things to Study.md"
               }
             }
           }
@@ -158,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "496e6d3a0b3c61b8",
+  "active": "b60f5963fab058f5",
   "lastOpenFiles": [
+    "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
     "Things to Study.md",
     "Modules",
-    "Modules/Module 4/4.3 - Towers of Hanoi Pt. 2.md",
-    "images/Pasted image 20241019122412.png",
+    "Images/Pasted image 20241019122412.png",
     "Modules/Module 4/4.2 - Towers of Hanoi Pt. 1.md",
     "Modules/Module 4/4.1 - Vectors.md",
     "Modules/Module 3/3.5 - Destructor.md",
@@ -171,11 +172,11 @@
     "Modules/Module 3/3.3 - Copy Assignment.md",
     "Modules/Module 3/3.2 - Copy Constructors.md",
     "Modules/Module 3/3.1 - Constructors.md",
-    "images/Pasted image 20241019071727.png",
-    "images/Pasted image 20241019063328.png",
-    "images/Pasted image 20241019063207.png",
-    "images/Pasted image 20241019060246.png",
-    "images/Pasted image 20241019060044.png",
+    "Images/Pasted image 20241019071727.png",
+    "Images/Pasted image 20241019063328.png",
+    "Images/Pasted image 20241019063207.png",
+    "Images/Pasted image 20241019060246.png",
+    "Images/Pasted image 20241019060044.png",
     "Pasted image 20241019071727.png",
     "Pasted image 20241019063328.png",
     "Pasted image 20241019063207.png",
@@ -193,7 +194,7 @@
     "Evaluation/Evaluation Answers.md",
     "Modules/Module 3",
     "images/Untitled.md",
-    "images",
+    "Images",
     "New folder",
     "Modules/Module 2",
     "Programs/hello_world/hello_world.o",

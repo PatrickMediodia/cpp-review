@@ -1,6 +1,6 @@
+- [x] Mutex vs Semaphores
+- [ ] L and R Values
 - [ ] Overload Operators
 - [ ] Const
-- [ ] L and R Values
 - [ ] Smart Pointers (Unique and Shared Pointers)
 - [ ] Make Unique/Shared
-- [ ] Mutex vs Semaphores
